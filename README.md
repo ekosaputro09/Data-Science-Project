@@ -10,4 +10,4 @@ A repository contains portfolio of Data Science Projects completed by me for tra
   * [Simple Word Frequency List and Word CLoud](https://github.com/ekosaputro09/Data-Science-Project/blob/master/Simple%20Word%20Frequency%20List%20and%20Word%20Cloud/FreqList_and_WordCloud.ipynb) : An example of how to make a simple word frequency list and word cloud from a text.
 
 * **Training**
-  * [All of Machine Learning](https://github.com/ekosaputro09/Data-Science-Project/tree/master/All%20of%20Machine%20Learning)
+  * [All of Machine Learning](https://github.com/ekosaputro09/Data-Science-Project/tree/master/All%20of%20Machine%20Learning) by [PACMANN AI](http://pacmannai.com/)
