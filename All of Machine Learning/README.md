@@ -1,1 +1,1 @@
-This is a documentation of exercise from **All of Machine Learning** training by <font color='orange'> PACMANN</font> AI that I followed
+This is a documentation of exercise from **All of Machine Learning** training by PACMANN AI that I followed
