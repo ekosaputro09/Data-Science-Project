@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Data-Science-Projects
 
 A repository contains portfolio of Data Science Projects completed by me for training documentation and self-learning purpose
 
