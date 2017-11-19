@@ -9,8 +9,8 @@ This is a documentation of exercises completed by me as a part of **All of Machi
  * [Exercise 4](https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise4%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : Intro to Sentiment Analysis : Text Preprocessing (on U.S Airline).
     * _Text Preprocessing_
  * [Exercise 5](https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise5%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : Sentiment Analysis (on U.S Airline)
-    * _Sentiment Analysis, Decision Tree, Random Forest, Bagging, Adaptive Boosting_
+    * _NLP, Sentiment Analysis, Decision Tree, Random Forest, Bagging, Adaptive Boosting_
  * [Exercise 6](https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise6%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : Deep Learning (Stock Market Data from Numer.ai)
-    * _Keras, Logistic Regression, Neural Network_
+    * _Keras, Logistic Regression, Deep Learning / Neural Network_
  * [Exercise 7](https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise7%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : PCA and Clustering (Direct Marketing Campaigns of a Portuguese Banking Institution)
-   * _Unsupervised Learning, PCA, Clustering_
+   * _Unsupervised Learning, PCA, Clustering, K-Means_
