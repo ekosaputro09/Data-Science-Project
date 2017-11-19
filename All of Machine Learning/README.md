@@ -12,5 +12,5 @@ This is a documentation of exercises completed by me as a part of **All of Machi
     * _Sentiment Analysis, Decision Tree, Random Forest, Bagging, Adaptive Boosting_
  * [Exercise 6](https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise6%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : Deep Learning (Stock Market Data from Numer.ai)
     * _Keras, Logistic Regression, Neural Network_
- * Exercise 7
- * Exercise 8
+ * [Exercise 7] (https://github.com/ekosaputro09/Data-Science-Project/blob/master/All%20of%20Machine%20Learning/Exercise7%20-%20ML%20-%20Advanced%20-%20Eko_Saputro.ipynb) : PCA and Clustering (Direct Marketing Campaigns of a Portuguese Banking Institution)
+   * _Unsupervised Learning, PCA, Clustering_
